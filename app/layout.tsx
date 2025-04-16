@@ -18,7 +18,7 @@ const nunito = Nunito({
 
 export const metadata: Metadata = {
    title: "HomeRide",
-   description: "Airbnb Clone",
+   description: "homeRide-website",
 };
 
 export default async function RootLayout({ children }: { children: React.ReactNode }) {
